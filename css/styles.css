@@ -39,6 +39,10 @@ color: #434455;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        font-style: normal;
+}
+.hero-section {
+    background-color: #2E2F42;
 }
 .main-title {
         color:#FFF;
@@ -51,12 +55,15 @@ color: #434455;
 .order-service-button {
         color: #FFF;
     
-        font-family: Roboto;
+        font-family: Roboto, sans-serif;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
         background-color: #4D5AE5;
+}
+.our-team-section {
+    background-color: #F4F4FD;
 }
 .title-second {
     color: #2E2F42;
@@ -96,4 +103,7 @@ color: #434455;
 .order-service-button:hover,
 .order-service-button:focus {
     background-color:#404BBF ;
+}
+.footer-section {
+    background-color: #2E2F42;
 }
